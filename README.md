@@ -16,4 +16,5 @@
 * [MySQL](https://marketplace.visualstudio.com/items?itemName=formulahendry.vscode-mysql) - MySQL 管理工具。
 * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST API 的测试开发利器。
 * [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) - 为 Ruby 语言提供全面支持。
+* [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - 简单可靠的多设备间 VSCode 配置同步工具。
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - 极为好用的 Vue 开发工具。
