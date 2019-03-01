@@ -19,4 +19,4 @@
 * [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - 简单可靠的多设备间 VSCode 配置同步工具。
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - 极为好用的 Vue 开发工具。
 * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - 极为好用的 Markdown 插件。
-* [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - 极为好用的 LaTex 插件。
+* [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - 极为好用的 LaTeX 插件。
