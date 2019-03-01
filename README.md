@@ -20,3 +20,4 @@
 * [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) - 为 Ruby 语言提供全面支持。
 * [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - 简单可靠的多设备间 VSCode 配置同步工具。
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - 极为好用的 Vue 开发工具。
+* [OneDark-Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - 最受欢迎的 VSCODE 主题之一
