@@ -12,9 +12,9 @@
 
 * [background](https://marketplace.visualstudio.com/items?itemName=shalldie.background) - 为 VS Code 添加你喜欢的背景图片。
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - 代码一键运行，支持超过40种语言。
-* [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - 多合一的 LaTeX 插件：预览，反向搜索，补全，格式化等功能以及丰富的快捷键。
+* [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - 提升 LaTeX 编排效率：预览，智能提示，格式化等功能以及丰富的快捷键。
 * [LeetCode](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-leetcode) - Offer 收割利器，在 VS Code 中轻松刷题。
-* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - 多合一的 Markdown 插件：补全，格式化，数学公式支持等功能以及丰富的快捷键。
+* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - 多合一的 Markdown 插件：自动补全，格式化，数学公式支持等功能以及丰富的快捷键。
 * [MySQL](https://marketplace.visualstudio.com/items?itemName=formulahendry.vscode-mysql) - MySQL 管理工具。
 * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST API 的测试开发利器。
 * [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) - 为 Ruby 语言提供全面支持。
