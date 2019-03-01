@@ -16,8 +16,8 @@
 * [LeetCode](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-leetcode) - Offer 收割利器，在 VS Code 中轻松刷题。
 * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - 多合一的 Markdown 插件：自动补全，格式化，数学公式支持等功能以及丰富的快捷键。
 * [MySQL](https://marketplace.visualstudio.com/items?itemName=formulahendry.vscode-mysql) - MySQL 管理工具。
+* [OneDark-Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - 最受欢迎的 VS Code 主题之一
 * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - REST API 的测试开发利器。
 * [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) - 为 Ruby 语言提供全面支持。
-* [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - 简单可靠的多设备间 VSCode 配置同步工具。
+* [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - 简单可靠的多设备间 VS Code 配置同步工具。
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - 极为好用的 Vue 开发工具。
-* [OneDark-Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - 最受欢迎的 VSCODE 主题之一
