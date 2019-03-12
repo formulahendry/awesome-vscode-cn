@@ -21,3 +21,4 @@
 * [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) - 为 Ruby 语言提供全面支持。
 * [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - 简单可靠的多设备间 VS Code 配置同步工具。
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - 极为好用的 Vue 开发工具。
+* [VSC Netease Music](https://marketplace.visualstudio.com/items?itemName=nondanee.vsc-netease-music) - 边写代码，边听网易云音乐。
