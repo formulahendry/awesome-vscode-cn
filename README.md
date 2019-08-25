@@ -3,6 +3,7 @@
 ## 玩转VS Code
 
 * [知乎专栏](https://zhuanlan.zhihu.com/vs-code) - Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部都可以在这里找到。带你玩转VSCode！
+* 工欲善其事，必先利其器。[知乎 Live《VS Code 从入门到进阶》](https://www.zhihu.com/lives/1124809477068849152)，带你玩转 VS Code！
 * 微信公众号 - 文章内容与[“玩转VS Code”知乎专栏](https://zhuanlan.zhihu.com/vs-code)同步，为习惯于公众号阅读的童鞋提供额外的选择。
 
   ![二维码](https://s1.ax1x.com/2018/12/31/F4mUVs.jpg)
