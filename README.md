@@ -9,6 +9,10 @@
   ![二维码](https://s1.ax1x.com/2018/12/31/F4mUVs.jpg)
 * 微信群 - 畅所欲言，交流一切与 VS Code 相关的信息。相互学习，共同进步！请添加微信 hellovsc，然后拉入微信群。
 
+## VS Code 中文社区
+
+* [VS Code 中文社区主仓库](https://github.com/vscodecc/vscodecc) - VS Code 中文社区致力于促进开发者之间的交流学习。定期举办线下沙龙、动手实践营以及开发者交流大会等。
+
 ## 国人开发的优秀插件
 
 * [background](https://marketplace.visualstudio.com/items?itemName=shalldie.background) - 为 VS Code 添加你喜欢的背景图片。
