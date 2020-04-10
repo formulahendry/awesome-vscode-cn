@@ -27,3 +27,4 @@
 * [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - 简单可靠的多设备间 VS Code 配置同步工具。
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - 极为好用的 Vue 开发工具。
 * [VSC Netease Music](https://marketplace.visualstudio.com/items?itemName=nondanee.vsc-netease-music) - 边写代码，边听网易云音乐。
+* [Zhihu On VSCode](https://marketplace.visualstudio.com/items?itemName=niudai.vscode-zhihu) - 基于 VS Code 的知乎客户端，提供包括阅读、搜索、创作、发布等一站式服务。
