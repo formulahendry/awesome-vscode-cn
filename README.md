@@ -28,3 +28,4 @@
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - 极为好用的 Vue 开发工具。
 * [VSC Netease Music](https://marketplace.visualstudio.com/items?itemName=nondanee.vsc-netease-music) - 边写代码，边听网易云音乐。
 * [Zhihu On VSCode](https://marketplace.visualstudio.com/items?itemName=niudai.vscode-zhihu) - 基于 VS Code 的知乎客户端，提供包括阅读、搜索、创作、发布等一站式服务。
+* [close-git-unmodified](https://marketplace.visualstudio.com/items?itemName=Cyanhall.close-git-unmodified) - 快速关闭 Git 下没编辑过的文件
