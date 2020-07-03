@@ -3,7 +3,9 @@
 ## 玩转VS Code
 
 * [知乎专栏](https://zhuanlan.zhihu.com/vs-code) - Visual Studio Code的最新资讯，热门文章，使用技巧，插件推荐，插件开发攻略等，全部都可以在这里找到。带你玩转VSCode！
-* 工欲善其事，必先利其器。[知乎 Live《VS Code 从入门到进阶》](https://www.zhihu.com/lives/1124809477068849152)，带你玩转 VS Code！
+* [《Visual Studio Code 权威指南》](https://union-click.jd.com/jdc?e=jdext-1261348777639735296-0&p=AyIGZRhbHQsWAVIaXxEyEgRdG1sRBxU3EUQDS10iXhBeGlcJDBkNXg9JHUlSSkkFSRwSBF0bWxEHFRgMXgdIMkRxFAUJD1RQZT0cBnwKDE4%2BaDpgB2ILWStbHAIQD1QaWxIBIgdUGlsRBxEEUxprJQIXNwd1g6O0yqLkB4%2B%2FjcePwitaJQIWD1cfWhwKGwVSG1wlAhoDZc31gdeauIyr%2FsOovNLYq46cqca50ytrJQEiXABPElAeEgRSG1kQCxQBUxxZHQQQA1YTXAkDIgdUGlscChECXRs1FGwSD1UbWRALFwRWK1slASJZOxoLRlUXU1NONU9QEkdXWRlJbBUDVB9TFgAVN1caWhcA)：首本 VS Code 中文书，带你深入浅出 VS Code！
+
+  ![中文书](https://s1.ax1x.com/2020/07/03/NjzLtA.jpg)
 * 微信公众号 - 文章内容与[“玩转VS Code”知乎专栏](https://zhuanlan.zhihu.com/vs-code)同步，为习惯于公众号阅读的童鞋提供额外的选择。
 
   ![二维码](https://s1.ax1x.com/2018/12/31/F4mUVs.jpg)
